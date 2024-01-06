@@ -22,7 +22,7 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-
-.env*
+# i will upload .env for you guys to have access to cloudynary
+# .env*
 
 
